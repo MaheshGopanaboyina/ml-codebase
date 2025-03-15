@@ -1,7 +1,7 @@
 # 📌 Machine Learning Lab Programs (Semester 6)
 
 ## 📖 Description
-This repository contains Machine Learning lab programs for [Your University/College Name], Semester 6. 
+This repository contains Machine Learning lab programs for Sasi Institute of Technology & Engineering, Semester 6. 
 Each program covers essential ML concepts, including classification, regression, clustering, and exploratory data analysis.
 
 ## 📜 Table of Contents
