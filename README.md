@@ -32,8 +32,8 @@ Each program covers essential ML concepts, including classification, regression,
 ## 🚀 How to Run
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/ml-lab.git
-   cd ml-lab
+   git clone https://github.com/MaheshGopanaboyina/ml-codebase.git
+   cd ml-codebase
    ```
 2. Install dependencies
    ```sh
